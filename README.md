@@ -4,4 +4,4 @@
 - 📫 How to reach me: https://www.linkedin.com/in/heatherdibella/ 
 - 😄 Pronouns: She/Her
 
-![ProfilePic](HProfilePic2.jpg)
+![ProfilePic](HProfilePicToUse.jpg)
